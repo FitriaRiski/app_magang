@@ -4,7 +4,7 @@
       <h1>Data Pengguna</h1>
     </div>
     
-    <a href="<?= base_url('admin/data_customer/tambah_customer'); ?>" class="btn btn-primary mb-3">Tambah Customer</a>
+    <a href="<?= base_url('admin/data_customer/tambah_customer'); ?>" class="btn btn-primary mb-3">Tambah Data</a>
     <?= $this->session->flashdata('pesan'); ?>
     
     <table class="table table-hover table-striped table-responsive table-bordered">

@@ -1,7 +1,7 @@
 <div class="main-content">
   <section class="section">
     <div class="section-header">
-      <h1>Form Input Customer</h1>
+      <h1>Form Input Pengguna</h1>
     </div>
 
     <form action="<?= base_url('admin/data_customer/tambah_customer_aksi') ?>" method="post">

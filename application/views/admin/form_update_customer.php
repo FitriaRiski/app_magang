@@ -1,7 +1,7 @@
 <div class="main-content">
   <section class="section">
     <div class="section-header">
-      <h1>Form Update Customer</h1>
+      <h1>Form Update Pengguna</h1>
     </div>
 
     <?php foreach($customer as $cs): ?>
